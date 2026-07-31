@@ -18,23 +18,6 @@ https://nigerian-loan-default-prediction-system-6r5pqfcoxewgssrpfbw4bn.streamlit
 
 ![Home Page](images/home_page.png)
 
----
-
-## Low Risk Prediction
-
-![Low Risk](images/low_risk_result.png)
-
----
-
-## Moderate Risk Prediction
-
-![Moderate Risk](images/moderate_risk_result.png)
-
----
-
-## High Risk Prediction
-
-![High Risk](images/high_risk_result.png)
 
 ---
 
